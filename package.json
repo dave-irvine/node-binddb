@@ -16,6 +16,8 @@
   "dependencies": {
     "async": "^0.9.0",
     "dns-zonefile": "0.0.6",
-    "mysql": "^2.3.2"
+    "heredoc": "^1.2.0",
+    "mysql": "^2.3.2",
+    "prompt": "^0.2.13"
   }
 }
