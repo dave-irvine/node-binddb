@@ -1,0 +1,16 @@
+{
+  "name": "node-binddb",
+  "version": "0.0.0",
+  "description": "Generate DNS zone files from MySQL representations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dns",
+    "zone",
+    "mysql"
+  ],
+  "author": "Dave Irvine <dave@daveirvine.me>",
+  "license": "MIT"
+}
