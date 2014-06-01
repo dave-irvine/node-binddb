@@ -12,5 +12,9 @@
     "mysql"
   ],
   "author": "Dave Irvine <dave@daveirvine.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dns-zonefile": "0.0.6",
+    "mysql": "^2.3.2"
+  }
 }
